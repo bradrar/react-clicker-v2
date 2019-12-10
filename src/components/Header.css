@@ -1,0 +1,8 @@
+.custom-header {
+  background-color: dimgrey;
+  color: white !important;
+  font-size: 80px;
+  text-align: center;
+
+  line-height: 100px;
+}
